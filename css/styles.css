@@ -1,0 +1,65 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+  color: white;
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+h3 {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+img {
+  filter: invert(39%) sepia(64%) saturate(747%) hue-rotate(242deg) brightness(93%) contrast(84%);
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+
+td {
+  padding: 0;
+}
+
+.attribution {
+  font-size: 11px; text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.card {
+  background-color: hsl(244, 38%, 16%);
+  margin: 90px 50px;
+}
+
+.imaginea {
+  margin: 0;
+  padding: 0;
+}
+
+.scris {
+  padding: 50px 100px;
+}
+
+.scrismic {
+  font-size: 10px;
+}
+.violet {
+  color: violet;
+}
+
+.width33 {
+  width: 33%;
+  padding: 10px 40px 10px 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.width50 {
+  width: 50%;
+}
